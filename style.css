@@ -12,8 +12,9 @@
   margin: 30px;
 }
 
-.box-txt {
+.box-txt{
   font-size: 30px;
   color: blue;
   font-weight: bold;
+  text-align: center;
 }
